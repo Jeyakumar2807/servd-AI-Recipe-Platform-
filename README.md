@@ -24,8 +24,11 @@ Tailwind CSS
 **Authentication:**
 Clerk
 
+**Backend / CMS:**
+Strapi
+
 **AI Integration:**
-Gemini API / OpenAI API
+Gemini API
 
 **Tools:**
 Git
