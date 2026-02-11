@@ -11,7 +11,6 @@ Servd is an AI-powered recipe generation platform that allows users to generate 
 * 📝 Generate recipes based on user input
 * ⚡ Fast and optimized performance with Next.js
 * 📱 Fully responsive UI
-* 🔔 Real-time notifications
 
 ---
 
